@@ -11,20 +11,20 @@ Copy paste following markdown into your markdown content, and that's it. Easy Ea
 Change the `?username=` value to your Medium's username.
 
 ```md
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
+[![Pritesh's Medium](https://github-readme-medium.vercel.app/?username=priteshx419)](https://medium.com/@priteshx419)
 ```
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
+[![Pritesh's Medium](https://github-readme-medium.vercel.app/?username=priteshx419)](https://medium.com/@priteshx419)
 
 
 ```md
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah&limit=2&bg=red&text=green)](https://medium.com/@omidnikrah)
+[![Pritesh's Medium](https://github-readme-medium.vercel.app/?username=priteshx419&limit=2&bg=red&text=green)](https://medium.com/@priteshx419)
 ```
 
 use hexacode without using '#' symbol
 
 ```md
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@omidnikrah)
+[![Pritesh's Medium](https://github-readme-medium.vercel.app/?username=priteshx419&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@priteshx419)
 ```
 
 ## Options
